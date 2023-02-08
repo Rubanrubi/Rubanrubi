@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/rubanrubi7" target="blank"><img src="https://img.shields.io/twitter/follow/rubanrubi7?logo=twitter&style=for-the-badge" alt="rubanrubi7" /></a> </p>
 
-- 🔭 I’m currently working on **devthugs**
+- 🔭 I’m currently working on **Sparkout Tech Solutions & BlockchainX**
 
-- 🌱 I’m currently learning **Solidity,Nodejs**
+- 🌱 I’m currently learning **RUST, Cloud**
 
 - 👨‍💻 All of my projects are available at [https://rubanrubi.github.io/](https://rubanrubi.github.io/)
 
 - 📝 I regularly write articles on [devthugs.com](devthugs.com)
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **Blockchain, Laravel, Javascript**
 
 - 📫 How to reach me **rubanshanthi24@gmail.com**
 
